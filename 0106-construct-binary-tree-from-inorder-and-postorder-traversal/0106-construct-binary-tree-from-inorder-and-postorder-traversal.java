@@ -14,39 +14,38 @@
  * }
  */
 class Solution {
-    public TreeNode buildTree(int[] inorder, int[] postorder) {
+     Map<Integer, Integer> map = new HashMap<>();
+     public TreeNode buildTree(int[] inorder, int[] postorder) {
+          for (int i = 0; i < inorder.length; i++) {
+            map.put(inorder[i], i);
+        }
 
-        if(inorder.length == 0 || postorder.length == 0) return null;
+        return helper(
+            inorder,
+            postorder,
+            0,
+            inorder.length - 1,
+            0,
+            postorder.length - 1
+        );
+     }
+    public TreeNode helper( int[] inorder,
+            int[] postorder,
+            int instart,
+            int inend,
+            int poststart,
+            int postend) {
 
-        int nodeValue = postorder[postorder.length - 1];
+        if(instart > inend || poststart > postend) return null;
+
+        int nodeValue = postorder[postend];
 
         TreeNode node = new TreeNode(nodeValue);
 
-        int index = 0;
-        while(inorder[index] != postorder[postorder.length - 1]){
-            index++;
-        }
-
-        int[] inleft = new int[index];
-        int[] inright = new int[inorder.length - index - 1];
-        int[] poleft = new int[index];
-        int[] poright = new int[postorder.length - index - 1];
-
-        for(int i = 0;i<index;i++){
-            inleft[i] = inorder[i];
-        }
-        for(int i = index + 1;i<inorder.length;i++){
-            inright[i-index-1] = inorder[i];
-        }
-         for(int i = 0;i<index;i++){
-            poleft[i] = postorder[i];
-        }
-         for(int i = index;i<postorder.length - 1;i++){
-            poright[i-index] = postorder[i];
-        }
-
-        node.left = buildTree(inleft,poleft);
-        node.right = buildTree(inright,poright);
+        int index = map.get(nodeValue);
+        int leftsize = index - instart;
+        node.left = helper(inorder,postorder,instart,index -1,poststart,poststart + leftsize -1);
+        node.right = helper(inorder,postorder,index + 1,inend,poststart + leftsize,postend-1);
         
         return node;
         
