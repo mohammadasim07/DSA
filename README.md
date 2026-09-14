@@ -44,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohammadasim07/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mohammadasim07/DSA/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mohammadasim07/DSA/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mohammadasim07/DSA/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mohammadasim07/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
