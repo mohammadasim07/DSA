@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/mohammadasim07/DSA/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/mohammadasim07/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/mohammadasim07/DSA/tree/master/0155-min-stack) |
 | [1598-crawler-log-folder](https://github.com/mohammadasim07/DSA/tree/master/1598-crawler-log-folder) |
@@ -75,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/mohammadasim07/DSA/tree/master/0071-simplify-path) |
 | [1598-crawler-log-folder](https://github.com/mohammadasim07/DSA/tree/master/1598-crawler-log-folder) |
 <!---LeetCode Topics End-->
