@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/mohammadasim07/DSA/tree/master/0118-pascals-triangle) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1598-crawler-log-folder](https://github.com/mohammadasim07/DSA/tree/master/1598-crawler-log-folder) |
 | [2256-minimum-average-difference](https://github.com/mohammadasim07/DSA/tree/master/2256-minimum-average-difference) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/mohammadasim07/DSA/tree/master/0071-simplify-path) |
 | [1598-crawler-log-folder](https://github.com/mohammadasim07/DSA/tree/master/1598-crawler-log-folder) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/mohammadasim07/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
