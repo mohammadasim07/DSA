@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohammadasim07/DSA/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mohammadasim07/DSA/tree/master/0110-balanced-binary-tree) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohammadasim07/DSA/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/mohammadasim07/DSA/tree/master/0110-balanced-binary-tree) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mohammadasim07/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mohammadasim07/DSA/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mohammadasim07/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohammadasim07/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mohammadasim07/DSA/tree/master/0118-pascals-triangle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/mohammadasim07/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
