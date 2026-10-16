@@ -18,25 +18,24 @@ class Solution {
     int p = 0;
     int l = 0;
 
-    public void pre(TreeNode root , int k){
-        if(root == null) return;
+    public void pre(TreeNode root, int k) {
+        if (root == null)
+            return;
 
+        pre(root.left, k);
 
-        pre(root.left, k );
-
-        if(root != null) l--;
-
-        if(l == 0){
-             p = root.val;
+        l++;
+        if (l == k) {
+            p = root.val;
         }
-        System.out.println(root.val + " " + k);
-
-        pre(root.right,k);
+        
+        pre(root.right, k);
     }
+
     public int kthSmallest(TreeNode root, int k) {
-        l = k;
-        pre(root,k);
+
+        pre(root, k);
         return p;
-      
+
     }
 }
