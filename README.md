@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammadasim07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohammadasim07/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mohammadasim07/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mohammadasim07/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammadasim07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohammadasim07/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mohammadasim07/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mohammadasim07/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammadasim07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohammadasim07/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mohammadasim07/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mohammadasim07/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohammadasim07/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Linked List
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/mohammadasim07/DSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohammadasim07/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/mohammadasim07/DSA/tree/master/0112-path-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mohammadasim07/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammadasim07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/mohammadasim07/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohammadasim07/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
