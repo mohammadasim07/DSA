@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohammadasim07/DSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohammadasim07/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohammadasim07/DSA/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohammadasim07/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohammadasim07/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/mohammadasim07/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/mohammadasim07/DSA/tree/master/0112-path-sum) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohammadasim07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammadasim07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
