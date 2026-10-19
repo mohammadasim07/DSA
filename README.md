@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/mohammadasim07/DSA/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammadasim07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0410-split-array-largest-sum](https://github.com/mohammadasim07/DSA/tree/master/0410-split-array-largest-sum) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1046-last-stone-weight](https://github.com/mohammadasim07/DSA/tree/master/1046-last-stone-weight) |
 | [1598-crawler-log-folder](https://github.com/mohammadasim07/DSA/tree/master/1598-crawler-log-folder) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/mohammadasim07/DSA/tree/master/0410-split-array-largest-sum) |
 | [2256-minimum-average-difference](https://github.com/mohammadasim07/DSA/tree/master/2256-minimum-average-difference) |
 ## Depth-First Search
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mohammadasim07/DSA/tree/master/0118-pascals-triangle) |
+| [0410-split-array-largest-sum](https://github.com/mohammadasim07/DSA/tree/master/0410-split-array-largest-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/mohammadasim07/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammadasim07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0410-split-array-largest-sum](https://github.com/mohammadasim07/DSA/tree/master/0410-split-array-largest-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mohammadasim07/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/mohammadasim07/DSA/tree/master/0410-split-array-largest-sum) |
 | [0767-reorganize-string](https://github.com/mohammadasim07/DSA/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
