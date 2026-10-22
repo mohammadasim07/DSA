@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammadasim07/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/mohammadasim07/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/mohammadasim07/DSA/tree/master/0071-simplify-path) |
 | [0680-valid-palindrome-ii](https://github.com/mohammadasim07/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/mohammadasim07/DSA/tree/master/0767-reorganize-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohammadasim07/DSA/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/mohammadasim07/DSA/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/mohammadasim07/DSA/tree/master/0410-split-array-largest-sum) |
 ## Breadth-First Search
@@ -226,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/mohammadasim07/DSA/tree/master/0994-rotting-oranges) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohammadasim07/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohammadasim07/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
