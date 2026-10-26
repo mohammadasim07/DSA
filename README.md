@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/mohammadasim07/DSA/tree/master/0071-simplify-path) |
 | [0680-valid-palindrome-ii](https://github.com/mohammadasim07/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/mohammadasim07/DSA/tree/master/0767-reorganize-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadasim07/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1598-crawler-log-folder](https://github.com/mohammadasim07/DSA/tree/master/1598-crawler-log-folder) |
 ## Dynamic Programming
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammadasim07/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/mohammadasim07/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadasim07/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
