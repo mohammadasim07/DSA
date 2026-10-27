@@ -243,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohammadasim07/DSA/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mohammadasim07/DSA/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mohammadasim07/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
