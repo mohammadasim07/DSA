@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/mohammadasim07/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0567-permutation-in-string](https://github.com/mohammadasim07/DSA/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/mohammadasim07/DSA/tree/master/0767-reorganize-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/mohammadasim07/DSA/tree/master/0143-reorder-list) |
+| [0567-permutation-in-string](https://github.com/mohammadasim07/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohammadasim07/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohammadasim07/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mohammadasim07/DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/mohammadasim07/DSA/tree/master/0071-simplify-path) |
+| [0567-permutation-in-string](https://github.com/mohammadasim07/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohammadasim07/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/mohammadasim07/DSA/tree/master/0767-reorganize-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadasim07/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammadasim07/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/mohammadasim07/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/mohammadasim07/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadasim07/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
