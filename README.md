@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/mohammadasim07/DSA/tree/master/0118-pascals-triangle) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammadasim07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohammadasim07/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0410-split-array-largest-sum](https://github.com/mohammadasim07/DSA/tree/master/0410-split-array-largest-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mohammadasim07/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammadasim07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/mohammadasim07/DSA/tree/master/0410-split-array-largest-sum) |
 | [2256-minimum-average-difference](https://github.com/mohammadasim07/DSA/tree/master/2256-minimum-average-difference) |
 ## Depth-First Search
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/mohammadasim07/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammadasim07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohammadasim07/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohammadasim07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0410-split-array-largest-sum](https://github.com/mohammadasim07/DSA/tree/master/0410-split-array-largest-sum) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohammadasim07/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohammadasim07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/mohammadasim07/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/mohammadasim07/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadasim07/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
