@@ -3,7 +3,7 @@ class Solution {
         int maxData = Integer.MIN_VALUE;
         int point = 0;
         int count = 0;
-        if(k == nums.length){return nums.length;}
+      
         for(int i = 0;i<nums.length;i++){
             if(nums[i] == 0){
                 count++;
