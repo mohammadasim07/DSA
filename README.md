@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/mohammadasim07/DSA/tree/master/0767-reorganize-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/mohammadasim07/DSA/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohammadasim07/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/mohammadasim07/DSA/tree/master/1695-maximum-erasure-value) |
 ## Divide and Conquer
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mohammadasim07/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohammadasim07/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/mohammadasim07/DSA/tree/master/0767-reorganize-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohammadasim07/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadasim07/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1598-crawler-log-folder](https://github.com/mohammadasim07/DSA/tree/master/1598-crawler-log-folder) |
 ## Dynamic Programming
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mohammadasim07/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/mohammadasim07/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadasim07/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohammadasim07/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mohammadasim07/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/mohammadasim07/DSA/tree/master/1695-maximum-erasure-value) |
 ## Greedy
