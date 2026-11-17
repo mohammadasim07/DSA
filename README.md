@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mohammadasim07/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohammadasim07/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohammadasim07/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/mohammadasim07/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/mohammadasim07/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohammadasim07/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/mohammadasim07/DSA/tree/master/0767-reorganize-string) |
@@ -310,4 +311,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mohammadasim07/DSA/tree/master/0239-sliding-window-maximum) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/mohammadasim07/DSA/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/mohammadasim07/DSA/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/mohammadasim07/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
