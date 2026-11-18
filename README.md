@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/mohammadasim07/DSA/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/mohammadasim07/DSA/tree/master/0143-reorder-list) |
+| [0541-reverse-string-ii](https://github.com/mohammadasim07/DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/mohammadasim07/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohammadasim07/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Stack
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/mohammadasim07/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mohammadasim07/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/mohammadasim07/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/mohammadasim07/DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/mohammadasim07/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohammadasim07/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/mohammadasim07/DSA/tree/master/0767-reorganize-string) |
