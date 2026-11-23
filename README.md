@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/mohammadasim07/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadasim07/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/mohammadasim07/DSA/tree/master/1046-last-stone-weight) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohammadasim07/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1598-crawler-log-folder](https://github.com/mohammadasim07/DSA/tree/master/1598-crawler-log-folder) |
 | [1695-maximum-erasure-value](https://github.com/mohammadasim07/DSA/tree/master/1695-maximum-erasure-value) |
 | [2256-minimum-average-difference](https://github.com/mohammadasim07/DSA/tree/master/2256-minimum-average-difference) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mohammadasim07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/mohammadasim07/DSA/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mohammadasim07/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohammadasim07/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2256-minimum-average-difference](https://github.com/mohammadasim07/DSA/tree/master/2256-minimum-average-difference) |
 ## Depth-First Search
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mohammadasim07/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/mohammadasim07/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohammadasim07/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohammadasim07/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## String
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohammadasim07/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohammadasim07/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohammadasim07/DSA/tree/master/0029-divide-two-integers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohammadasim07/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
