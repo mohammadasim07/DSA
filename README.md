@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohammadasim07/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mohammadasim07/DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/mohammadasim07/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0860-lemonade-change](https://github.com/mohammadasim07/DSA/tree/master/0860-lemonade-change) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mohammadasim07/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/mohammadasim07/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/mohammadasim07/DSA/tree/master/0912-sort-an-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mohammadasim07/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/mohammadasim07/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/mohammadasim07/DSA/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/mohammadasim07/DSA/tree/master/0860-lemonade-change) |
 ## Counting
 |  |
 | ------- |
